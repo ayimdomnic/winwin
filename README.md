@@ -1,3 +1,3 @@
 # winwin
 
-a project of my last company
+很不错的laravel实例，值得学习
